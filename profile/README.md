@@ -25,12 +25,13 @@ clickIT-Org brings together talented developers, DevOps engineers, and technolog
 ## 🛠️ Technology Stack
 
 Our team leverages modern technologies including:
-- Cloud Platforms (AWS, Azure, GCP)
+- Cloud Platforms (AWS, )asdasd
 - Container Orchestration (Kubernetes, Docker)
-- CI/CD Tools (GitHub Actions, Jenkins)
-- Frontend & Backend Frameworks
+- CI/CD Tools (GitHub Actions, CircleCI)
+- Fsdfsdfrontend & Backend Frameworks
 - Database Solutions
-- Infrastructure as Code (Terraform, CloudFormation)
+- Infrastructure as Code
+- Programming and Prototyping in Python / C++ / JavaScript
 
 ## 📊 Key Strengths
 
