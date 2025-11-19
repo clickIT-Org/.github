@@ -62,15 +62,13 @@ Please check individual repository guidelines for contribution instructions.
 ## 📞 Contact & Connect
 
 - **GitHub**: [@clickIT-Org](https://github.com/clickIT-Org)
-- **Website**: [www.clickit.tech](https://www.clickit.tech) *(Update with actual URL)*
-- **Email**: [contact@clickit.tech](mailto:contact@clickit.tech) *(Update with actual email)*
+- **Website**: [www.click-it.online](https://www.click-it.online)
+- **Email**: [github@click-it.online](mailto:github@click-it.online)
 
 ## 📝 License
 
 Projects within this organization are released under various licenses. Please refer to individual repositories for specific license information.
 
 ---
-
-**Last Updated**: November 19, 2025
 
 Made with ❤️ by the clickIT-Org Team
