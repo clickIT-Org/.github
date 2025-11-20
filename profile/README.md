@@ -39,15 +39,6 @@ Our team leverages modern technologies including:
 - **Scalability** - Solutions designed to grow with your business
 - **Security** - Enterprise-grade security practices
 
-## 🔗 Our Repositories
-
-This organization hosts a collection of open-source projects, internal tools, and collaborative initiatives. Explore our repositories to discover:
-
-- Production-ready applications
-- Reusable libraries and frameworks
-- Infrastructure templates
-- Documentation and guides
-
 ## 🤝 Getting Involved
 
 We welcome contributions from the community! Whether you're interested in:
@@ -64,10 +55,6 @@ Please check individual repository guidelines for contribution instructions.
 - **GitHub**: [@clickIT-Org](https://github.com/clickIT-Org)
 - **Website**: [www.click-it.online](https://www.click-it.online)
 - **Email**: [github@click-it.online](mailto:github@click-it.online)
-
-## 📝 License
-
-Projects within this organization are released under various licenses. Please refer to individual repositories for specific license information.
 
 ---
 
