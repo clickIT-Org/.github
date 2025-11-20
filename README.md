@@ -1,2 +1,3 @@
 # .github
-clickIT Profile Page.
+
+clickIT Organization Profile Repository.
