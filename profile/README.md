@@ -2,7 +2,7 @@
 
 Welcome to **clickIT-Org** - Your Technology Partner for Digital Excellence.
 
-## 🎯 About Us
+## 💻 About Us
 
 - Our organization is a forward-thinking company dedicated to delivering innovative solutions and exceptional results
 - We specialize in cutting-edge development practices, robust infrastructure, and transformative digital solutions that empower businesses to thrive in the modern landscape
@@ -11,7 +11,7 @@ Welcome to **clickIT-Org** - Your Technology Partner for Digital Excellence.
 
 To revolutionize the way organizations approach technology by providing world-class solutions, fostering collaboration, and driving continuous innovation.
 
-## 💼 What We Do
+## 🔧 What We Do
 
 ### Core Services
 - **Software Development**: Custom applications tailored to your business needs
