@@ -58,5 +58,4 @@ Please check individual repository guidelines for contribution instructions.
 
 ---
 
-**Empowering Innovation Through Software Development Excellence**  
-Built by the clickIT-Org Engineering Team
+💻 Built with excellence by the clickIT-Org Engineering Team 🚀
