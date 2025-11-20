@@ -4,7 +4,8 @@ Welcome to **clickIT-Org** - Your Technology Partner for Digital Excellence.
 
 ## 🎯 About Us
 
-clickIT-Org is a forward-thinking technology organization dedicated to delivering innovative solutions and exceptional results. We specialize in cutting-edge development practices, robust infrastructure, and transformative digital solutions that empower businesses to thrive in the modern landscape.
+- Our organization is a forward-thinking company dedicated to delivering innovative solutions and exceptional results
+- We specialize in cutting-edge development practices, robust infrastructure, and transformative digital solutions that empower businesses to thrive in the modern landscape
 
 ## 🚀 Our Mission
 
