@@ -1,4 +1,4 @@
-# clickIT Organization Profile
+# 🏢 clickIT Organization Profile 🏢
 
 Welcome to **clickIT-Org** - Your Technology Partner for Digital Excellence.
 
