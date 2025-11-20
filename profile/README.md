@@ -58,4 +58,5 @@ Please check individual repository guidelines for contribution instructions.
 
 ---
 
-Made with ❤️ by the clickIT-Org Team
+**Empowering Innovation Through Software Development Excellence**  
+Built by the clickIT-Org Engineering Team
