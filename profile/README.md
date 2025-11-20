@@ -12,7 +12,7 @@ Welcome to **clickIT-Org** - Your Technology Partner for Digital Excellence.
 
 - **Software Development**: Custom applications tailored to your business needs
 - **DevOps & Infrastructure**: Scalable, secure, and reliable cloud solutions
-- **Consulting**: Strategic guidance on digital transformation initiatives
+- **Consulting**: Strategic guidance on digital transformation initiatives and optimized AI driven development (especially copilot coding agent)
 - **Continuous Integration / Deployment**: Automated pipelines for rapid delivery
 
 ## 👥 Our Team
