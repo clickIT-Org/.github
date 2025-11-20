@@ -27,8 +27,8 @@ Our team leverages modern technologies including:
 - Container Orchestration (Kubernetes, Docker)
 - CI/CD Tools (GitHub Actions, CircleCI)
 - Web-Frontend & Backend Development
-- Database Solutions
-- Infrastructure as Code
+- Distributed Database Solutions
+- Infrastructure as Code Paradigm 
 - Programming and Prototyping in Python / C++ / JavaScript
 
 ## 📊 Key Strengths
