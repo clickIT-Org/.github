@@ -35,11 +35,11 @@ Our team leverages modern technologies including:
 
 ## 📊 Key Strengths
 
-✅ **Innovative Solutions** - Cutting-edge technology implementations
-✅ **Reliability** - Proven track record of successful projects
-✅ **Collaboration** - Strong partnership approach with clients
-✅ **Scalability** - Solutions designed to grow with your business
-✅ **Security** - Enterprise-grade security practices
+- **Innovative Solutions** - Cutting-edge technology implementations
+- **Reliability** - Proven track record of successful projects
+- **Collaboration** - Strong partnership approach with clients
+- **Scalability** - Solutions designed to grow with your business
+- **Security** - Enterprise-grade security practices
 
 ## 🔗 Our Repositories
 
