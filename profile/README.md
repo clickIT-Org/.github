@@ -50,7 +50,7 @@ We welcome contributions from the community! Whether you're interested in:
 
 Please check individual repository guidelines for contribution instructions.
 
-## 📞 Contact & Connect
+## 📧 Contact & Connect
 
 - **GitHub**: [@clickIT-Org](https://github.com/clickIT-Org)
 - **Website**: [www.click-it.online](https://www.click-it.online)
