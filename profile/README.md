@@ -6,7 +6,7 @@ Welcome to **clickIT-Org** - Your Technology Partner for Digital Excellence.
 
 - Our organization is a forward-thinking company dedicated to delivering innovative solutions and exceptional results.
 - We specialize in cutting-edge development practices, robust infrastructure, and transformative digital solutions that empower businesses to thrive in the modern landscape.
-- clickIT excels in developing complete and customized solutions, frameworks, and protocols, such as the [x0 framework](https://github.com/WEBcodeX1/x0) and [http-1.2](https://github.com/WEBcodeX1/http-1.2).
+- clickIT excels in developing complete and customized solutions, frameworks, and protocols, such as the [x0 framework](https://github.com/clickIT-Org/x0) and [http-1.2](https://github.com/WEBcodeX1/http-1.2).
 
 ## 🔧 Core Services
 
